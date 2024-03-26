@@ -1,0 +1,5 @@
+[
+  { "columnName": "spend", "stacked": false, "label": "Spending" },
+  { "columnName": "daily_revenue", "stacked": false, "label": "Daily Revenue" },
+  { "columnName": "cohort_revenue_d1", "stacked": false, "label": "Revenue D1" }
+]
